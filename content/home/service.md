@@ -68,6 +68,7 @@ title = "Community Service"
 
 ### Organization
 * Late Breaking Results and Demo Chair: Conference on User Modeling, Adaptation and Personalization (UMAP) 2021.
+* Task Chair: Style Change Detection Task, PAN@CLEF 2021.
 * Publication Chair: International Society on Music Information Retrieval Conference (ISMIR) 2020.
 * Task Chair: Style Change Detection Task, PAN@CLEF 2020.
 * Tutorials Chair: International Society on Music Information Retrieval Conference (ISMIR) 2019.

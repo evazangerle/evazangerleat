@@ -1,69 +1,32 @@
-# evazangerle.at
+<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
 
-This page uses Hugo and the academic template and is deployed on Github pages.
+# Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
-## Setup
-```
-# install hugo 
-dnf install snapd
-snap install hugo --channel=extended
+The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
 
-# local setup
-# fork https://github.com/sourcethemes/academic-kickstart
-git clone https://github.com/evazangerle/academic-kickstart.git 
-git submodule update --init --recursive
+[Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
 
-# start hugo, go to http://localhost:1313
-hugo server
-```
+[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
 
+- 👉 [**Get Started**](https://wowchemy.com/docs/install/)
+- 📚 [View the **documentation**](https://wowchemy.com/docs/)
+- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
+- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
+- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
 
-## Deployment
+## Crowd-funded open-source software
 
-### Setup
-Two repos are used: one for the code (fork of academic kickstart described above) and evazangerle.github.io, where resulting static pages are deployed. All this is taken from the [official Hugo documentation](cf.  https://sourcethemes.com/academic/docs/deployment/
-).
+To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
 
-```
-# create evazangerle.github.io
-# add evazangerle.github.io as submodule in public folder (Hugo output folder)
-git submodule add -f -b master https://github.com/evazangerle/evazangerle.github.io.git public
-# in config/_default/config.toml, change baseurl to evazangerle.github.io
-```
+### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
 
+## Ecosystem
 
-### Deploying
-```
-# run hugo to recreate pages, push to repo
-hugo
-cd public
-git add *
-git commit -m "message"
-git push
-```
+* **[Wowchemy Admin](https://github.com/wowchemy/wowchemy-admin/):** An admin tool to import publications from BibTeX
 
-## Updating
-Config-file can be found in `config/_default/config.toml`, all content-files are located in `content`. 
+[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png)](https://wowchemy.com)
 
-When performing changes locally, these can be deployed locally:
-```
-hugo server
-# open localhost:1313
-```
-
-### Updating publications
-Publications are managed via bibtex, which are preprocessed via a python script ([academic](https://github.com/sourcethemes/academic-admin)). This script parses the bibtex file and creates md-files ready to be used by the templating engine:
-
-```
-academic import --bibtex /home/eva/git/cv/bib/publications.bib
-```
-
-To add a pdf for e.g., the entry vldb10, add the pdf-file named just like the created folder (vldb-10 folder menas vldb-10.pdf as name) in the vldb-10 folder.
-
-
-
-## Resources
-* [Hugo](https://gohugo.io/)
-* [Academic](https://sourcethemes.com/academic/)
-* [Why you should create your academic website with Academic and Hugo](https://georgecushen.com/create-your-website-with-hugo/)
-# evazangerleat
+<!--
+[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+-->

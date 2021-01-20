@@ -16,7 +16,7 @@ title = "Community Service"
 ### Reviewing for Conferences
 
 * Conference on User Modeling, Adaptation and Personalization (UMAP) [2019-2021]
-* ACM International Conference on Recommender Systems (RecSys) [2018-2020; best reviewer award nominee 2018]
+* ACM International Conference on Recommender Systems (RecSys) [2018-2021; best reviewer award nominee 2018]
 * International Society for Music Information Retrieval Conference (ISMIR) [2016, member of PC 2017-2020]
 * ACM International Conference on Multimedia (ACMMM) [2019-2020]
 * ACM Symposium on Applied Computing (SAC) [2015-2020]

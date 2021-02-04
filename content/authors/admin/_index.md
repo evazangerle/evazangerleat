@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PostDoc
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -76,6 +76,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Eva is a postdoctoral researcher at the Department of Computer Science at the University of Innsbruck, Austria. Her primary scientific interests focus on (context-aware) recommender systems and user modeling aspects of music information retrieval tasks. She earned her Ph.D. from the University of Innsbruck in the field of recommender systems for collaborative social media platforms. During her postdoc, she did short-term research stays at Ritsumeikan University in Kyoto, Japan (funded by a Postdoctoral Fellowship for Overseas Researchers from the Japan Society for the Promotion of Science), Freie Universität Berlin, Germany (funded by the Global Faculty Program of Freie Universität) and Johannes-Kepler-Universität Linz, Austria. 
+Eva is an assistant professor at the Department of Computer Science at the University of Innsbruck, Austria. Her primary scientific interests focus on (context-aware) recommender systems and user modeling aspects of music information retrieval tasks. She earned her Ph.D. from the University of Innsbruck in the field of recommender systems for collaborative social media platforms. During her postdoc, she did short-term research stays at Ritsumeikan University in Kyoto, Japan (funded by a Postdoctoral Fellowship for Overseas Researchers from the Japan Society for the Promotion of Science), Freie Universität Berlin, Germany (funded by the Global Faculty Program of Freie Universität) and Johannes-Kepler-Universität Linz, Austria. 
 
 Eva is also co-author of a book on MySQL (currently in it's 3rd edition). For more information on the book, visit <a href="https://www.rheinwerk-verlag.de/mysql_3843/">Rheinwerk Verlag</a> (the publisher) or the <a href="https://www.mysqladmin.at/">book's website </a>.

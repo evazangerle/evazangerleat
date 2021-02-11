@@ -12,6 +12,8 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* Our paper "Overview of PAN 2021: Authorship Verification, Profiling Hate Speech Spreaders on Twitter, and Style Change
+  Detection" was accepted at ECIR 2021.
 * I am Late-Breaking Results and Demo Co-Chair at the 29th Conference on User Modeling, Adaptation and Personalization,
   together with Bart Knijnenberg [01/2021].
 * Our paper "User models for multi-context-aware music recommendation" has been published in Multimedia Tools and

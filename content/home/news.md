@@ -15,7 +15,7 @@ title = "News"
 * Our article "Leveraging Affective Hashtags for Ranking Music Recommendations" has been published by [IEEE Transactions
   of Affective Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369) (2 year impact factor
 7.512). Find the article [here](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369) - joint work together
-with Chih-Ming Chen, Ming-Feng Tsai and Yi-Hsuan Yang.
+with Chih-Ming Chen, Ming-Feng Tsai and Yi-Hsuan Yang [03/2021].
 * Our article "Support the Underground: Characteristics of Beyond-Mainstream Music Listeners" has been accepted by [EPJ Data Science](https://epjdatascience.springeropen.com/) (2 year impact factor 2.783). This is work together with Dominik Kowald, Peter Muellner, Christine Bauer, Markus Schedl, and Elisabeth Lex. Find the preprint on [arXiv.org](https://arxiv.org/abs/2102.12188) [02/2021].
 * Our paper "Overview of PAN 2021: Authorship Verification, Profiling Hate Speech Spreaders on Twitter, and Style Change
   Detection" was accepted at ECIR 2021 [01/2021].

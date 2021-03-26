@@ -14,7 +14,7 @@ title = "News"
 +++
 * I am co-organizing the [PERSPECTIVES workshop](https://perspectives-ws.github.io/2021/) - Perspectives on the
   Evaluation of Recommender Systems at the ACM Recommender Systems Conference 2021 in September/October together with
-Christine Bauer and Alan Said.
+Christine Bauer and Alan Said [03/2021].
 * Our article "Leveraging Affective Hashtags for Ranking Music Recommendations" has been published by [IEEE Transactions
   of Affective Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369) (2 year impact factor
 7.512). Find the article [here](https://ieeexplore.ieee.org/document/8382228) - joint work together

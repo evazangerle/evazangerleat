@@ -17,13 +17,14 @@ title = "Community Service"
 
 * Conference on User Modeling, Adaptation and Personalization (UMAP) [2019-2021]
 * ACM International Conference on Recommender Systems (RecSys) [2018-2021; best reviewer award nominee 2018]
-* International Society for Music Information Retrieval Conference (ISMIR) [2016, member of PC 2017-2020]
+* International Society for Music Information Retrieval Conference (ISMIR) [2016, member of PC 2017-2021]
+* European Conference on Information Retrieval (ECIR) [2019, 2021]
+* International Symposium on Open Collaboration (OpenSym) [2021]
+* International Workshop on Algorithmic Bias in Search and Recommendation [2020-2021]
+* Workshop on Computational Humanities Research [2020-2021]
 * ACM International Conference on Multimedia (ACMMM) [2019-2020]
 * ACM Symposium on Applied Computing (SAC) [2015-2020]
-* International Workshop on Algorithmic Bias in Search and Recommendation [2020-2021]
 * Explainable User Models and Personalized Systems Workshop (ExUM) [2020]
-* Workshop on Computational Humanities Research [2020]
-* European Conference on Information Retrieval (ECIR) [2019]
 * ACM Conference on Web Science (WebSci) [2019]
 * Sound & Music Computing Conference (SMC) [2019]
 * Workshop on Explainable and Holistic User Modeling [2019]
@@ -67,6 +68,7 @@ title = "Community Service"
 * EPJ Data Science 
 
 ### Organization
+* Co-Organizer: PERSPECTIVES 2021 Workshop: Perspectives on the Evaluation of Recommender Systems Workshop at ACM Recommender Systems 2021.
 * Late Breaking Results and Demo Chair: Conference on User Modeling, Adaptation and Personalization (UMAP) 2021.
 * Task Chair: Style Change Detection Task, PAN@CLEF 2021.
 * Publication Chair: International Society on Music Information Retrieval Conference (ISMIR) 2020.

@@ -17,7 +17,7 @@ date: '2021-01-01'
 lastmod: 2021-04-16T09:41:19+02:00
 featured: false
 draft: false
-
+doi: "10.1140/epjds/s13688-021-00268-9"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

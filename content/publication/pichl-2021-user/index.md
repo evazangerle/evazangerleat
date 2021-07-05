@@ -5,12 +5,12 @@ title: User models for multi-context-aware music recommendation
 subtitle: ''
 summary: ''
 authors:
-- Eva Zangerle
 - Martin Pichl
+- Eva Zangerle
 tags: []
 categories: []
-date: '2020-10-01'
-lastmod: 2021-01-15T14:44:50+01:00
+date: '2021-01-01'
+lastmod: 2021-07-05T08:08:03+02:00
 featured: false
 draft: false
 
@@ -28,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-15T13:44:50.134399Z'
+publishDate: '2021-07-05T06:08:03.878343Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*Multimedia Tools and Applications*'
 doi: 10.1007/s11042-020-09890-7
